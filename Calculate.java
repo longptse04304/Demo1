@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author longp
+ * @author longptse04304
  */
 @WebServlet(urlPatterns = {"/cal"})
 public class Calculate extends HttpServlet {
